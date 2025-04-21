@@ -1,0 +1,10 @@
+"C:\Program Files\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2025.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S E:\candycrush -B E:\candycrush\cmake-build-debug
+-- Found SFML 2.6.1 in E:/SFML-2.6.1/lib/cmake/SFML
+-- SFML Found! Version: 2.6.1
+-- Configuring for STATIC SFML linking.
+-- Setting up asset copying...
+-- Source asset directory found: E:/candycrush/assets
+-- Will copy assets to an 'assets' folder next to the executable.
+-- Configuring done (0.2s)
+-- Generating done (0.1s)
+-- Build files have been written to: E:/candycrush/cmake-build-debug
